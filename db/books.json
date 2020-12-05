@@ -1,7 +1,4 @@
-{"_id":"5jiukIovSHq5rHhA","pages":102,"releaseDate":"2020-11-25","sold":false,"title":"Notes from the Underground","userId":"vI1GMkzBza5i82zj"}
-{"title":"The Idiot","pages":500,"userId":"vI1GMkzBza5i82zj","_id":"BijTMdu6CKDVo7ao","sold":false,"releaseDate":"2019-10-25"}
-{"title":"Demons","pages":300,"sold":false,"releaseDate":"","userId":"vI1GMkzBza5i82zj","_id":"MSUJ2Nqgb8HRhmws"}
-{"_id":"RCdHQoGzBtGUgkjg","title":"The Brothers Karamazov","pages":800,"userId":"vI1GMkzBza5i82zj","sold":true,"releaseDate":"2020-10-21"}
-{"title":"Crime and Punishment","pages":600,"sold":false,"releaseDate":"","userId":"vI1GMkzBza5i82zj","_id":"gSUHtAy90aw9GKWp"}
-{"_id":"tCc1ltDb8XRPJ2y1","title":"Rhinoceros","pages":100,"userId":"vI1GMkzBza5i82zz","sold":false,"releaseDate":"2020-10-25"}
-{"_id":"tCc1ltDb8XRPJ2y2","title":"Exit the King","pages":80,"userId":"vI1GMkzBza5i82zz","sold":true,"releaseDate":"2020-01-25"}
+{"title":"notes","pages":100,"sold":true,"releaseDate":"2020-12-05","status":0,"version":1,"userId":"vI1GMkzBza5i82zj","_id":"25S36h43LRyhFICL"}
+{"title":"karamazov","pages":800,"sold":true,"releaseDate":"2020-11-05","status":0,"version":1,"userId":"vI1GMkzBza5i82zj","_id":"HNqteyIePynOWReC"}
+{"title":"demons","pages":500,"sold":true,"releaseDate":"2020-12-07","status":0,"version":1,"userId":"vI1GMkzBza5i82zj","_id":"LJ4080OfyCMBFdxW"}
+{"title":"idiot","pages":400,"sold":false,"releaseDate":"2020-10-05","status":0,"version":1,"userId":"vI1GMkzBza5i82zj","_id":"xl4rLtuvOKBtVjaK"}
